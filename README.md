@@ -1,6 +1,13 @@
 # La oss prøve noe litt mer utfordrende
+oppgaver lett:
 
-oppgaver:
+*[The Button](https://jsfiddle.net/tbsBR/c0gf3vpd/46/) 
+
+oppgaver middels:
+
+[Vaporcode](https://jsfiddle.net/tbsBR/qvgto6sc/42/)
+
+oppgaver vanskelig:
 
 * [TicTacToe](https://jsfiddle.net/Sion17/xs8tcg4L/18/)
 
