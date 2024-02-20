@@ -1,11 +1,11 @@
 # La oss prøve noe litt mer utfordrende
 oppgaver lett:
 
-*[The Button](https://jsfiddle.net/tbsBR/c0gf3vpd/46/) 
+* [The Button](https://jsfiddle.net/tbsBR/c0gf3vpd/46/) 
 
 oppgaver middels:
 
-[Vaporcode](https://jsfiddle.net/tbsBR/qvgto6sc/42/)
+* [Vaporcode](https://jsfiddle.net/tbsBR/qvgto6sc/42/)
 
 oppgaver vanskelig:
 
