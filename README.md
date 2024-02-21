@@ -1,4 +1,4 @@
-# La oss prøve noe litt mer utfordrende
+# Kode lab oppgaver R2
 oppgaver lett:
 
 * [The Button](https://jsfiddle.net/tbsBR/c0gf3vpd/46/)
