@@ -1,11 +1,15 @@
 # La oss prøve noe litt mer utfordrende
 oppgaver lett:
 
-* [The Button](https://jsfiddle.net/tbsBR/c0gf3vpd/46/) 
+* [The Button](https://jsfiddle.net/tbsBR/c0gf3vpd/46/)
+
+* [Masking](https://jsfiddle.net/elm19/ojg3fmvL/37/)
 
 oppgaver middels:
 
 * [Vaporcode](https://jsfiddle.net/tbsBR/qvgto6sc/42/)
+
+* [Cubik tap](https://jsfiddle.net/elm19/1muvtgon/72/)
 
 oppgaver vanskelig:
 
