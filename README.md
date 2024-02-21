@@ -17,7 +17,7 @@ oppgaver vanskelig:
 
 * [Api - The movie database](https://jsfiddle.net/msv92/zkdcL61u/18/)
 
-* [CSS / HTML - oppgave](https://jsfiddle.net/alhaBrreg/8pnk40bo/370/)
+* [](https://jsfiddle.net/alhaBrreg/8pnk40bo/370/)
 
 # Feedback
 
