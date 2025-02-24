@@ -3,6 +3,8 @@ oppgaver lett:
 
 * [The Button](https://jsfiddle.net/tbsBR/c0gf3vpd/46/)
 
+* [Guessing game](https://jsfiddle.net/alhaBrreg/vspj7ecq/47/)
+
 * [Masking](https://jsfiddle.net/elm19/ojg3fmvL/37/)
 
 oppgaver middels:
