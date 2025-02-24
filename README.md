@@ -7,6 +7,8 @@ oppgaver lett:
 
 oppgaver middels:
 
+* [POST-IT](https://jsfiddle.net/alhaBrreg/098Ltm65/257/)
+
 * [Vaporcode](https://jsfiddle.net/tbsBR/qvgto6sc/42/)
 
 * [Cubik tap](https://jsfiddle.net/elm19/1muvtgon/72/)
